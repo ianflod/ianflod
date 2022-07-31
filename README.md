@@ -11,6 +11,12 @@
 🏌🏽‍♂️ Away from the laptop i enjoy being outside, whether on the golf course or out in nature.
 
 
+#### Connect with me:
+
+
+#### Languages and tools:
+
+
 <!--
 **ianflod/ianflod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
