@@ -25,6 +25,25 @@
 
 * <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/> Java
 
+<table>
+<tr>
+<td width="33%">
+  
+* <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/> Python
+
+* <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/> JavaScript
+
+* <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/> Java
+</td>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+</tr>
+</table>
+
 
 
 <!--
