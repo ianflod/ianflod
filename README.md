@@ -36,10 +36,21 @@
 * <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/> Java
 </td>
 <td width="33%">
-The quick brown fox jumps over the lazy dog.
+  
+
+
+ * <img align="left" alt="React" width="26" src="https://user-images.githubusercontent.com/102290897/182042458-8b7b356b-22f6-41c9-900c-dd57b7710b10.png"/> React
+  
+ * <img align="left" alt="Flask" width="26" src="https://raw.githubusercontent.com/simple-icons/simple-icons/22dcd449cefa00d7b7f22984d16c480276b417a4/icons/flask.svg"/> Flask
+
+  
 </td>
 <td width="33%">
-The quick brown fox jumps over the lazy dog.
+  
+ * <img align="left" alt="VSCode" width="26" src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png?raw=true"/> VSCode
+
+  The quick brown fox jumps over the lazy dog.
+  
 </td>
 </tr>
 </table>
