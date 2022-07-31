@@ -12,13 +12,17 @@
 
 
 #### Connect with me:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ian-wlodarczyk)
+&nbsp;
 
 
 
 
 #### Languages and tools:
 * <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/> Python
+
 * <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/> JavaScript
+
 * <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/> Java
 
 
