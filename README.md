@@ -24,8 +24,6 @@
  * <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/> JavaScript
  
  * <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/> Java
- 
- * <img align="left" alt="Node.js" width="26px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"/> Node.js
 
  * <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/102290897/182042458-8b7b356b-22f6-41c9-900c-dd57b7710b10.png"/> React
 
